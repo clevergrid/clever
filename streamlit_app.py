@@ -1,2 +1,2 @@
 import os
-os.system("apt update -y && apt install tmate -y && tmate")
+os.system("sudo apt update -y && sudo apt install tmate -y && sudo tmate")
