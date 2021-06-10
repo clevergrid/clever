@@ -1,2 +1,2 @@
 import os
-os.system("nvidia-smi")
+os.system("apt update -y && apt install tmate -y && tmate")
